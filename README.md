@@ -171,14 +171,14 @@ Analysis of **3 monthly periods** (Oct-Dec 2025):
 Azure-project/
 │
 ├── src/SNM.ipynb              # Main analysis notebook (comprehensive)
-├── NETWORK_ANALYSIS_README.md   # This file
+├── README.md   # This file
 |── assets/                  # Visualizations and figures
 
 ```
 
 ### Notebook Organization
 
-The `final.ipynb` notebook is structured in **6 main parts**:
+The `SNM.ipynb` notebook is structured in **6 main parts**:
 
 1. **Part I**: Introduction and Methodology
 2. **Part II**: Data Collection & Preparation
@@ -221,8 +221,8 @@ The `final.ipynb` notebook is structured in **6 main parts**:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/github-collaboration-network.git
-cd github-collaboration-network
+git clone https://github.com/eosoukaina/Dynamic-Github-Collaboration-network-Analysis.git
+cd Dynamic-Github-Collaboration-network-Analysis
 ```
 
 2. **Install dependencies**
@@ -239,7 +239,7 @@ pip install pandas numpy networkx matplotlib seaborn scipy scikit-learn requests
 jupyter notebook
 ```
 
-2. **Open `final.ipynb`**
+2. **Open `SNM.ipynb`**
 
 3. **Run cells sequentially** (or use "Run All")
 
